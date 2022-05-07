@@ -1,6 +1,7 @@
 # Sample Spring Cloud Contract Testing
 
-Details can be found here [spring cloud contract](https://docs.spring.io/spring-cloud-contract/docs/current/reference/html/getting-started.html#getting-started-first-application)
+* Details can be found here [spring cloud contract](https://docs.spring.io/spring-cloud-contract/docs/current/reference/html/getting-started.html#getting-started-first-application)
+* The same project is implemented using pact contract testing framework [here](https://github.com/tabiul/pact-contract-testing). Refer to it for comparison
 
 There are two flows
 * Producer defines the contract and then consumer creates tests that confirm to that contract
